@@ -17,6 +17,7 @@
 
 ### Upcoming Release
 
+* [#269] [FEATURE] Add a generator for copying layout files into host app
 * [#251] [FEATURE] Raise a helpful error when an attribute is missing from
   `ATTRIBUTE_TYPES`
 * [#231] [UI] Fix layout issue on show page where a long label next to an empty
